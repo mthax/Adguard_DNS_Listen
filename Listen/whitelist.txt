@@ -5781,6 +5781,7 @@
 @@5.9.9.7.9.f.e.f.f.f.1.9.6.b.a.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.in6.arpa^$important
 @@8.c.8.0.6.2.e.f.f.f.d.d.8.1.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.in6.arpa^$important
 @@0.6.9.0.7.7.e.f.f.f.0.0.5.9.6.c.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.in6.arpa^$important
+@@d.c.b.f.a.a.e.f.f.f.2.4.7.b.6.b.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.in6.arpa^$important
 @@download.maxmind.com^$important
 @@*.maxmind.com^$important
 @@*.local^$important
