@@ -1,0 +1,6 @@
+@@*.thalliman.com^$important
+@@*.home.thalliman.com^$important
+@@*.remote.thalliman.com^$important
+@@*.thallilan.com^$important
+@@*.home.thallilan.com^$important
+@@*.remote.thallilan.com^$important
