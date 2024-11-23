@@ -5786,3 +5786,5 @@
 @@download.maxmind.com^$important
 @@*.maxmind.com^$important
 @@*.local^$important
+@@*.home.arpa^$important
+@@lb._dns-sd._udp.home.arpa^$important
