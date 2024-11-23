@@ -5788,3 +5788,4 @@
 @@*.local^$important
 @@*.home.arpa^$important
 @@lb._dns-sd._udp.home.arpa^$important
+@@*.service.arpa^$important
