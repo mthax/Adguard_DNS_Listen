@@ -5790,3 +5790,4 @@
 @@*.home.arpa^$important
 @@lb._dns-sd._udp.home.arpa^$important
 @@*.service.arpa^$important
+@@*.tailscale.com^$important
