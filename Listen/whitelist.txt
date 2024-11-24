@@ -5791,3 +5791,4 @@
 @@lb._dns-sd._udp.home.arpa^$important
 @@*.service.arpa^$important
 @@*.tailscale.com^$important
+@@*ocfconnect-shard-eu02-euwest1.samsungiotcloud.com^$important
