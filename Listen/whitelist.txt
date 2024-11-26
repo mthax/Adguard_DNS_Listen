@@ -5796,3 +5796,6 @@
 @@*.tailscale.com^$important
 @@*ocfconnect-shard-eu02-euwest1.samsungiotcloud.com^$important
 @@dns.google^$important
+@@cloudfront.net^$important
+@@tailscale.com^$important
+
