@@ -5798,4 +5798,4 @@
 @@dns.google^$important
 @@cloudfront.net^$important
 @@tailscale.com^$important
-
+@@*.icloud.com^$important
