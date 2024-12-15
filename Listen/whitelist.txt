@@ -5816,3 +5816,4 @@
 @@iadsdk.apple.com.akadns.net^$important
 @@play.itunes.apple.com.edgesuite.net^$important
 @@apple.com^$important
+@@*.acemlna.com^$important
