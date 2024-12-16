@@ -5817,3 +5817,4 @@
 @@play.itunes.apple.com.edgesuite.net^$important
 @@apple.com^$important
 @@*.acemlna.com^$important
+@@*.adobe.com^$important
