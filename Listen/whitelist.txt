@@ -5818,3 +5818,5 @@
 @@apple.com^$important
 @@*.acemlna.com^$important
 @@*.adobe.com^$important
+@@*.private.omdbapi.com$important
+@@*.omdbapi.com$important
