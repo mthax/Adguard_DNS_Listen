@@ -5824,3 +5824,4 @@
 @@*.mtcontent.rs^$important
 @@*.nsddd.top^$important
 @@*.tvmaze.com^$important
+@@*.dailywire.com^$important
