@@ -5825,3 +5825,4 @@
 @@*.nsddd.top^$important
 @@*.tvmaze.com^$important
 @@*.dailywire.com^$important
+@@*.fastly-edge.com^$important
