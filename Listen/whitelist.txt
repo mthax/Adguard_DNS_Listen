@@ -5829,3 +5829,4 @@
 @@*.authentik.error-reporting.a7k.io^$important
 @@*.a7k.io^$important
 @@*.googlezip.net^$important
+@@*.amzn.to^$important
