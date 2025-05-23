@@ -5827,6 +5827,8 @@
 @@*.dailywire.com^$important
 @@*.fastly-edge.com^$important
 @@*.authentik.error-reporting.a7k.io^$important
+@@*.error-reporting.a7k.io^$important
+@@*.a7k.io^$important
 @@*.a7k.io^$important
 @@*.googlezip.net^$important
 @@*.amzn.to^$important
