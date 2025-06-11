@@ -5821,3 +5821,5 @@ googlezip.net
 amzn.to
 bluesnap.com
 _dns.resolver.arpa
+mask-h2.icloud.com
+mask.icloud.com
