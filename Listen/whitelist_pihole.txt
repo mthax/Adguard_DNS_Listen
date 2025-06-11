@@ -5820,3 +5820,4 @@ a7k.io
 googlezip.net
 amzn.to
 bluesnap.com
+_dns.resolver.arpa
