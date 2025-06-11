@@ -5824,3 +5824,4 @@ _dns.resolver.arpa
 mask-h2.icloud.com
 mask.icloud.com
 trace.svc.ui.com
+someonewhocares.org
