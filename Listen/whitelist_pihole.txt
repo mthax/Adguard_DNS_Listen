@@ -5820,6 +5820,7 @@ googlezip.net
 amzn.to
 bluesnap.com
 _dns.resolver.arpa
+resolver.arpa
 mask-h2.icloud.com
 mask.icloud.com
 trace.svc.ui.com
@@ -5827,3 +5828,4 @@ someonewhocares.org
 optimizationguide-pa.googleapis.com
 osb-apps-v2.samsungqbe.com
 www.nonktube.com
+o427061.ingest.sentry.io
