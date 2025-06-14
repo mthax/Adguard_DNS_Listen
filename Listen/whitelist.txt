@@ -5843,3 +5843,15 @@
 @@*.osb-apps-v2.samsungqbe.com^$important
 @@*.nonktube.com^$important
 @@*.o427061.ingest.sentry.io^$important
+@@*.doh.dns.apple.com^$important
+@@*.tunnel.googlezip.net^$important
+@@*.dns-tunnel-check.googlezip.net^$important
+@@*.history.google.com^$important
+@@*.www.facebook.com^$important
+@@*.d1tru86qrby720.cloudfront.net^$important
+@@*.registeridm.com^$important
+@@*.safebrowsing.google.com^$important
+@@*.cdn2.smoot.apple.com^$important
+@@*.www.messenger.com^$important
+@@*.www.gravatar.com^$important
+@@*.sb.l.google.com^$important

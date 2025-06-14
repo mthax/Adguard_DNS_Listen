@@ -5829,3 +5829,15 @@ optimizationguide-pa.googleapis.com
 osb-apps-v2.samsungqbe.com
 www.nonktube.com
 o427061.ingest.sentry.io
+doh.dns.apple.com
+tunnel.googlezip.net
+dns-tunnel-check.googlezip.net
+history.google.com
+www.facebook.com
+d1tru86qrby720.cloudfront.net
+registeridm.com
+safebrowsing.google.com
+cdn2.smoot.apple.com
+www.messenger.com
+www.gravatar.com
+sb.l.google.com
