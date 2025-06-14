@@ -5855,3 +5855,6 @@
 @@*.www.messenger.com^$important
 @@*.www.gravatar.com^$important
 @@*.sb.l.google.com^$important
+@@*.track.starmakerstudios.com^$important
+@@*.analytics.starmakerstudios.com^$important
+@@*.aezme1x38kdra.us-east-1.prod.service.minerva.devices.a2z.com^$important
