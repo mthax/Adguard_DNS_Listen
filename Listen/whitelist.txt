@@ -5861,3 +5861,4 @@
 @@*.o4506746191020032.ingest.sentry.io^$important
 @@*.o418887.ingest.sentry.io^$important
 @@*.o33249.ingest.us.sentry.io^$important
+@@*.gateway.ixopay.com^$important
