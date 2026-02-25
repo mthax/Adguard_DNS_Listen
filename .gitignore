@@ -2,3 +2,5 @@
 .SynologyWorkingDirectory
 .SynologyWorkingDirectory/
 Icon
+.idea
+.idea/
