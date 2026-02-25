@@ -5851,3 +5851,4 @@ gateway.ixopay.com
 private.omdbapi.com
 log.cyconet.org
 cloudflare-dns.com
+doh.cleanbrowsing.org
