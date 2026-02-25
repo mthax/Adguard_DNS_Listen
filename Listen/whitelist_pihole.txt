@@ -5848,3 +5848,6 @@ o4506746191020032.ingest.sentry.io
 o418887.ingest.sentry.io
 o33249.ingest.us.sentry.io
 gateway.ixopay.com
+private.omdbapi.com
+log.cyconet.org
+cloudflare-dns.com
