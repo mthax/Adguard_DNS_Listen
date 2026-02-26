@@ -5857,3 +5857,4 @@ analytics.services.jetbrains.com
 services.jetbrains.com
 jetbrains.com
 partiality.itunes.apple.com
+gld.push.samsungosp.com
