@@ -5852,6 +5852,7 @@ private.omdbapi.com
 log.cyconet.org
 cloudflare-dns.com
 doh.cleanbrowsing.org
+dns.cleanbrowsing.org
 analytics.services.jetbrains.com
 services.jetbrains.com
 jetbrains.com
