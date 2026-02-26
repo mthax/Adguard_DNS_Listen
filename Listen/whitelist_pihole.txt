@@ -5858,3 +5858,4 @@ services.jetbrains.com
 jetbrains.com
 partiality.itunes.apple.com
 gld.push.samsungosp.com
+updates.ghub.logitechg.com
