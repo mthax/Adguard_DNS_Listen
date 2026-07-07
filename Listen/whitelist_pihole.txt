@@ -5909,3 +5909,6 @@ updates.maxmind.com
 dev.maxmind.com
 ipify.org
 pantheonsite.io
+pkgs.tailscale.com
+unpkg.com
+api2.smoot.apple.com
