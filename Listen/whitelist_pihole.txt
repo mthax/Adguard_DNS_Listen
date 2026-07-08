@@ -5913,3 +5913,7 @@ pkgs.tailscale.com
 unpkg.com
 api2.smoot.apple.com
 probe.icloud.com
+hubspot.net
+pantheon.io
+schroederdennis.de
+pages.dev
